@@ -4,6 +4,15 @@ A practical SQL mini-project based on a Library Management System. This project 
 
 ---
 
+## 🧩 Entity Relationship Diagram (ERD)
+
+Here is the database schema used in this project:
+
+![Library Database ERD](https://github.com/Prakasshh/library-sql-project/blob/main/Database%20tables.png?raw=true)
+
+
+---
+
 ## 🗃️ Database Overview
 
 This project uses a relational schema with the following tables:
